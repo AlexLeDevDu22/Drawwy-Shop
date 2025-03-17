@@ -5,9 +5,7 @@
         "price": 0,
         "description": "Pour les débutants",
         "image_path": "data/shop/cursors_assets/cursor_alien.png",
-        "category": "Curseurs",
-        "purchased": true,
-        "selected": false
+        "category": "Curseurs"
     },
     {
         "id": 1,
@@ -15,9 +13,7 @@
         "price": 100,
         "description": "Afin d'envahir la galaxy",
         "image_path": "data/shop/cursors_assets/cursor_alien.png",
-        "category": "Curseurs",
-        "purchased": true,
-        "selected": false
+        "category": "Curseurs"
     },
     {
         "id": 2,
@@ -25,9 +21,7 @@
         "price": 150,
         "description": "Une bordure quelconque",
         "image_path": "data/shop/borders_assets/bordures_profil/bronze_border.png",
-        "category": "Bordures",
-        "purchased": true,
-        "selected": false
+        "category": "Bordures"
     },
     {
         "id": 3,
@@ -35,9 +29,7 @@
         "price": 100,
         "description": "MIAOU",
         "image_path": "data/shop/cursors_assets/cursor_cat.png",
-        "category": "Curseurs",
-        "purchased": true,
-        "selected": false
+        "category": "Curseurs"
     },
     {
         "id": 4,
@@ -45,9 +37,7 @@
         "price": 100,
         "description": "BOUH",
         "image_path": "data/shop/cursors_assets/cursor_ghost.png",
-        "category": "Curseurs",
-        "purchased": true,
-        "selected": false
+        "category": "Curseurs"
     },
     {
         "id": 5,
@@ -55,9 +45,7 @@
         "price": 140,
         "description": "Une bordure brillante",
         "image_path": "data/shop/borders_assets/bordures_profil/diamond_border.png",
-        "category": "Bordures",
-        "purchased": true,
-        "selected": false
+        "category": "Bordures"
     },
     {
         "id": 6,
@@ -65,9 +53,7 @@
         "price": 120,
         "description": "Une bordure dore",
         "image_path": "data/shop/borders_assets/bordures_profil/gold_border.png",
-        "category": "Bordures",
-        "purchased": true,
-        "selected": false
+        "category": "Bordures"
     },
     {
         "id": 7,
@@ -75,9 +61,7 @@
         "price": 140,
         "description": "Pour etre le GOAT de Drawwy",
         "image_path": "data/shop/borders_assets/bordures_profil/grandmaster_border.png",
-        "category": "Bordures",
-        "purchased": true,
-        "selected": false
+        "category": "Bordures"
     },
     {
         "id": 8,
@@ -85,9 +69,7 @@
         "price": 140,
         "description": "Pour montrer sa puissance",
         "image_path": "data/shop/borders_assets/bordures_profil/master_border.png",
-        "category": "Bordures",
-        "purchased": true,
-        "selected": true
+        "category": "Bordures"
     },
     {
         "id": 9,
@@ -95,9 +77,7 @@
         "price": 140,
         "description": "Pour montrer son talent ",
         "image_path": "data/shop/borders_assets/bordures_profil/mythic_border.png",
-        "category": "Bordures",
-        "purchased": true,
-        "selected": false
+        "category": "Bordures"
     },
     {
         "id": 10,
@@ -105,9 +85,7 @@
         "price": 140,
         "description": "L'un des meilleurs ",
         "image_path": "data/shop/borders_assets/bordures_profil/platinum_border.png",
-        "category": "Bordures",
-        "purchased": true,
-        "selected": false
+        "category": "Bordures"
     },
     {
         "id": 11,
@@ -115,9 +93,7 @@
         "price": 140,
         "description": "Meilleur qu'hier ",
         "image_path": "data/shop/borders_assets/bordures_profil/silver_border.png",
-        "category": "Bordures",
-        "purchased": true,
-        "selected": false
+        "category": "Bordures"
     },
     {
         "id": 12,
@@ -125,8 +101,6 @@
         "price": 100,
         "description": "ha!ha!Cuic!",
         "image_path": "data/shop/cursors_assets/cursor_robot.png",
-        "category": "Curseurs",
-        "purchased": true,
-        "selected": true
+        "category": "Curseurs"
     }
 ]
