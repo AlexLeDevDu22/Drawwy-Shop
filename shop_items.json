@@ -131,7 +131,7 @@
       "price": 100,
       "description": "Clap clap",
       "image_path": "data/shop/emotes_assets/cursor_alien.png",
-      "category": "Emote",
+      "category": "Emotes",
       "rarity": "Common"
     }
   ]
