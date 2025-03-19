@@ -126,6 +126,15 @@
       "rarity": "Epic"
     },
     {
+      "index": 14,
+      "name": "Bravo!",
+      "price": 100,
+      "description": "Clap clap",
+      "image_path": "data/shop/emotes_assets/applaudissemnt.png",
+      "category": "Emotes",
+      "rarity": "Common"
+    },
+    {
       "index": 15,
       "name": "Souris!",
       "price": 100,
