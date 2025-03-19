@@ -129,8 +129,8 @@
       "index": 15,
       "name": "Souris!",
       "price": 100,
-      "description": "couic squick",
-      "image_path": "data/shop/cursors_assets/applaudissemnt.png",
+      "description": "couic squick (anime)",
+      "image_path": "data/shop/cursors_assets/cursor_anime_0.png",
       "category": "Curseurs",
       "rarity": "Legendary"
     }
