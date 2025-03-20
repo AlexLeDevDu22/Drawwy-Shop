@@ -146,7 +146,7 @@
   {
     "index": 16,
     "name": "Stonks!",
-    "price": "200",
+    "price": 200,
     "description": "Pour une rentabilité excepionnel!",
     "image_path": "data/shop/emotes_assets/stonks.gif",
     "category": "Emotes",
@@ -155,7 +155,7 @@
   {
     "index": 17,
     "name": "This is fine !",
-    "price": "200",
+    "price": 200,
     "description": "Tout va tres bien",
     "image_path": "data/shop/emotes_assets/This_is_fine.png",
     "category": "Emotes",
@@ -164,7 +164,7 @@
   {
     "index": 18,
     "name": " Nyan cat ",
-    "price": "200",
+    "price": 200,
     "description": "Un ptit chat trognon ",
     "image_path": "data/shop/emotes_assets/Nyan_cat.gif",
     "category": "Emotes",
@@ -173,34 +173,34 @@
   {
     "index": 19,
     "name": " Homer ",
-    "price": "200",
+    "price": 200,
     "description": "...",
     "image_path": "data/shop/emotes_assets/homer.gif",
     "category": "Emotes",
     "rarity": "Epic"
   },
   {
-    "index": 19,
+    "index": 20,
     "name": " La marche du canard ",
-    "price": "200",
+    "price": 200,
     "description": "...",
     "image_path": "data/shop/emotes_assets/duck.gif",
     "category": "Emotes",
     "rarity": "Epic"
   },
   {
-    "index": 20,
+    "index": 21,
     "name": " Pepe the frog ",
-    "price": "200",
+    "price": 200,
     "description": "...",
     "image_path": "data/shop/emotes_assets/pepe_the_frog.gif",
     "category": "Emotes",
     "rarity": "Epic"
   },
   {
-    "index": 21,
+    "index": 22,
     "name": "Siuuu",
-    "price": "200",
+    "price": 200,
     "description": "...",
     "image_path": "data/shop/emotes_assets/siuuu.gif",
     "category": "Emotes",
