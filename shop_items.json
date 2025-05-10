@@ -253,11 +253,11 @@
   },
   {
     "index": 28,
-    "name": "HEHEHEHA",
-    "price": 200,
-    "description": "Le trolleur en personne",
-    "image_path": "data/shop/emotes_assets/heheheha.gif",
+    "name": "Merci La NSI!",
+    "price": 250,
+    "description": "Meilleure projet 1ere Bretagne !",
+    "image_path": "data/shop/emotes_assets/victoire.gif",
     "category": "Emotes",
-    "rarity": "Epique"
+    "rarity": "Legendaire"
   }
 ]
