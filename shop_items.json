@@ -259,5 +259,14 @@
     "image_path": "data/shop/emotes_assets/victoire.gif",
     "category": "Emotes",
     "rarity": "Legendaire"
+  },
+  {
+    "index": 29,
+    "name": "Mont Saint Michel",
+    "price": 200,
+    "description": "Un beau patrimoine BRETON",
+    "image_path": "data/shop/emotes_assets/michel.png",
+    "category": "Emotes",
+    "rarity": "Epique"
   }
 ]
